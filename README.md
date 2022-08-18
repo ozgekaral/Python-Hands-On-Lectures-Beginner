@@ -16,7 +16,7 @@
 
 
 
-![functions](https://github.com/ozgekaral/python_function_beginner/blob/main/PYTHON-BANNER-01-scaled.webp)
+![functions](https://file:///C:/Users/user202/Desktop/istockphoto-851584660-612x612.webp)
 
 
 
