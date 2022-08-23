@@ -74,7 +74,7 @@
 
 
 
-![functions](https:file:///C:/Users/user202/Desktop/----.webp)
+![functions](https://github.com/ozgekaral/Python-Hands-On-Lectures-Beginner/blob/main/----.webp)
 
 
 
